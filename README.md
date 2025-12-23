@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nimra Shehzadi</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-![Profile Views](https://views.igorkowalczyk.dev/api/badge/Nimra-Shehzadi?color=007bff&style=for-the-badge)
+<p align="left">
+  <img src="https://gpvc.arturio.dev/Nimra-Shehzadi" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Nimra-Shehzadi?label=Followers&style=flat-square&color=blue" alt="Followers" />
+</p>
 
 - 🔭 I’m currently working on **Website (Pet Hub)**
 
