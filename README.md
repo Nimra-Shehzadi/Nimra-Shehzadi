@@ -13,6 +13,7 @@
 - 💬 Ask me about **Anything related to work**
 
 - 📫 How to reach me **nimra.shehzadi.5094@gmail.com**
+- How to reach me  **linkedin.com/in/nimra-shehzadi-22262338a**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
