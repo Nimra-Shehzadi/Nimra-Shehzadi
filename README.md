@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimra Shehzadi</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimra-shehzadi&label=Profile%20views&color=0e75b6&style=flat" alt="nimra-shehzadi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![Profile Views](https://views.igorkowalczyk.dev/api/badge/Nimra-Shehzadi?color=007bff&style=for-the-badge)
 
 - 🔭 I’m currently working on **Website (Pet Hub)**
 
