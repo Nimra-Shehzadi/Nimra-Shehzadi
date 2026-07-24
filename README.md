@@ -177,6 +177,22 @@ Made with ❤️ by **Nimra Shehzadi**
 
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nimra-Shehzadi&theme=tokyonight_duo&hide_border=true&border_radius=20&ring=00F5A0&fire=8A2BE2&currStreakLabel=00F5A0&sideLabels=FFFFFF&dates=AAAAAA" />
+
+</p>
+
+<p align="center">
+<i>Consistency is the key to becoming a better developer.</i>
+</p>
+
+---
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -185,6 +201,8 @@ Made with ❤️ by **Nimra Shehzadi**
 </a>
 
 <a href="mailto:nimra.shehzadi.5094@gmail.com">
+
+  
 <img src="https://img.shields.io/badge/Gmail-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
