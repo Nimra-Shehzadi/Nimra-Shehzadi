@@ -28,7 +28,9 @@ Building intelligent web applications and AI-powered solutions with modern techn
 <i>Transforming ideas into intelligent software through clean code, creativity, and AI innovation.</i>
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<td width="40%">
+<img src="about-ai.png" width="100%">
+</td>
 
 ```yaml
 👩 Name: Nimra Shehzadi
