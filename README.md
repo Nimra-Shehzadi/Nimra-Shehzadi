@@ -179,14 +179,19 @@ Made with ❤️ by **Nimra Shehzadi**
 
 ---
 
-## 🔥 GitHub Streak
+<h2 align="left">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimra-shehzadi" />
+  <a href="https://github.com/nimra-shehzadi">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=nimra-shehzadi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5A0&ring=8A2BE2&fire=8A2BE2&currStreakLabel=00F5A0"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-<i>Consistency is the key to becoming a better developer.</i>
+  <i>Consistency is the key to becoming a better developer.</i>
 </p>
 
 ---
