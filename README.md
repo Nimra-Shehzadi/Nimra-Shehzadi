@@ -183,7 +183,7 @@ Made with ❤️ by **Nimra Shehzadi**
 
 <p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nimra-shehzadi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5A0&ring=8A2BE2&fire=8A2BE2&currStreakLabel=00F5A0)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nimra-shehzadi)
 
 </p>
 
