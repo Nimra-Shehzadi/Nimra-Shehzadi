@@ -39,7 +39,6 @@ Goal: Build AI products that solve real-world problems
 - 🌱 Learning every day and improving continuously.
 
 - 📫 How to reach me **nimra.shehzadi.5094@gmail.com**
-- How to reach me  **linkedin.com/in/nimra-shehzadi-22262338a**
 
 <h2 align="center">🌐 Connect With Me</h2>
 
