@@ -24,24 +24,27 @@ Building intelligent web applications and AI-powered solutions with modern techn
 
 
 ## 🚀 About Me
+<p align="center">
+<i>Transforming ideas into intelligent software through clean code, creativity, and AI innovation.</i>
+</p>
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ```yaml
-Name: Nimra Shehzadi
-Role: Full Stack Developer & AI Engineer
-Location: Pakistan
-Education: BS Computer Science
-Focus: AI • Web Development • Machine Learning
-Currently: Frontend AI Engineering Intern
-Goal: Build AI products that solve real-world problems
+👩 Name: Nimra Shehzadi
+💼 Role: Full Stack Developer & AI Engineer
+📍 Based In: Pakistan
+🎓 Degree: BS Computer Science
+🚀 Specialization: AI • Full Stack • Machine Learning
+💻 Current Focus: Frontend AI Engineering Internship
+🎯 Mission: Creating impactful AI-powered digital experiences
 ```
 
-- 🚀 Passionate about building modern web applications.
-- 🤖 Exploring Artificial Intelligence & Machine Learning.
-- 💡 Love solving real-world problems through technology.
-- 🌱 Learning every day and improving continuously.
-
+-- 🚀 Building scalable and modern web applications.
+- 🤖 Developing AI-powered solutions with practical impact.
+- 📚 Continuously learning emerging technologies.
+- 💡 Passionate about clean code, UI/UX, and problem solving.
+- 🌍 Open to collaboration on innovative software projects.
 - 📫 How to reach me **nimra.shehzadi.5094@gmail.com**
 
 <h2 align="center">🌐 Connect With Me</h2>
