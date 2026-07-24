@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png.png" alt="GitHub Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Nimra Shehzadi</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
