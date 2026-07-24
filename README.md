@@ -1,6 +1,10 @@
 <p align="center">
   <img src="github-banner.png.png" alt="GitHub Banner" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Machine+Learning+Enthusiast;Frontend+AI+Engineering+Intern;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Nimra Shehzadi</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
