@@ -23,11 +23,24 @@ Building intelligent web experiences with clean code, modern design, and AI-powe
   <img src="https://img.shields.io/github/followers/Nimra-Shehzadi?label=Followers&style=flat-square&color=blue" alt="Followers" />
 </p>
 
-- 🔭 I’m currently working on **Website (Pet Hub)**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Different languages to enhance my skills**
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 💬 Ask me about **Anything related to work**
+```yaml
+Name: Nimra Shehzadi
+Role: Full Stack Developer & AI Engineer
+Location: Pakistan
+Education: BS Computer Science
+Focus: AI • Web Development • Machine Learning
+Currently: Frontend AI Engineering Intern
+Goal: Build AI products that solve real-world problems
+```
+
+- 🚀 Passionate about building modern web applications.
+- 🤖 Exploring Artificial Intelligence & Machine Learning.
+- 💡 Love solving real-world problems through technology.
+- 🌱 Learning every day and improving continuously.
 
 - 📫 How to reach me **nimra.shehzadi.5094@gmail.com**
 - How to reach me  **linkedin.com/in/nimra-shehzadi-22262338a**
