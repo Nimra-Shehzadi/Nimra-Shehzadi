@@ -77,53 +77,6 @@ Transforming ideas into intelligent software through clean code, creativity, and
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nimra-shehzadi-22262338a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:nimra.shehzadi.5094@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Nimra-Shehzadi">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nimra-Shehzadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Nimra-Shehzadi&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</p>
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimra-Shehzadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nimra-Shehzadi&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
