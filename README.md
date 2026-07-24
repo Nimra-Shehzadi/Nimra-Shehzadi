@@ -195,21 +195,6 @@ Made with ❤️ by **Nimra Shehzadi**
 
 ---
 
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,java,cs,cpp,flutter,dart,firebase,git,github,vscode,figma,postman&perline=5" />
-
-</p>
-
-<p align="center">
-<i>Passionate about building scalable web applications, AI-powered solutions, and modern user experiences.</i>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimra-shehzadi&show_icons=true&locale=en" alt="nimra-shehzadi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimra-shehzadi&" alt="nimra-shehzadi" /></p>
 
 
 
