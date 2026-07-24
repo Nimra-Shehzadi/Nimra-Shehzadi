@@ -24,12 +24,15 @@ Building intelligent web applications and AI-powered solutions with modern techn
 
 
 ## 🚀 About Me
+
 <p align="center">
 <i>Transforming ideas into intelligent software through clean code, creativity, and AI innovation.</i>
 </p>
-<p align="center">
-  <img src="./about-ai.png.png" width="380" alt="About Me">
-</p>
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
 
 ```yaml
 👩 Name: Nimra Shehzadi
@@ -41,12 +44,23 @@ Building intelligent web applications and AI-powered solutions with modern techn
 🎯 Mission: Creating impactful AI-powered digital experiences
 ```
 
--- 🚀 Building scalable and modern web applications.
+- 🚀 Building scalable and modern web applications.
 - 🤖 Developing AI-powered solutions with practical impact.
 - 📚 Continuously learning emerging technologies.
 - 💡 Passionate about clean code, UI/UX, and problem solving.
 - 🌍 Open to collaboration on innovative software projects.
-- 📫 How to reach me **nimra.shehzadi.5094@gmail.com**
+- 📫 Reach me: **nimra.shehzadi.5094@gmail.com**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="about-ai.png.png" width="300" alt="About AI"/>
+
+</td>
+
+</tr>
+</table>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
