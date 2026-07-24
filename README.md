@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png.png" alt="GitHub Banner" width="100%" />
+  <img src="github-banner.png.png" alt="GitHub Banner" width="100%" /><br><br>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Building intelligent web applications and AI-powered solutions with modern techn
 
 <td width="35%" align="center">
 
-<img src="about-ai.png.png" width="300" alt="About AI"/>
+<img src="about-ai.png.png" width="350" alt="About AI"/>
 
 </td>
 
