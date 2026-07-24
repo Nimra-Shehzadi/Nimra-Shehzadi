@@ -183,7 +183,7 @@ Made with ❤️ by **Nimra Shehzadi**
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nimra-Shehzadi&theme=tokyonight_duo&hide_border=true&border_radius=20&ring=00F5A0&fire=8A2BE2&currStreakLabel=00F5A0&sideLabels=FFFFFF&dates=AAAAAA" />
+<img src="https://streak-stats.demolab.com?user=Nimra-Shehzadi&theme=tokyonight&hide_border=true&border_radius=20" />
 
 </p>
 
