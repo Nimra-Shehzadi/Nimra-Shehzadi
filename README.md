@@ -182,7 +182,7 @@ Made with ❤️ by **Nimra Shehzadi**
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nimra-shehzadi&theme=tokyonight&hide_border=true&border_radius=12&ring=00F5A0&fire=8A2BE2&currStreakLabel=00F5A0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimra-shehzadi" />
 </p>
 
 <p align="center">
