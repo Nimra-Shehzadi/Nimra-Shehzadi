@@ -6,16 +6,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Machine+Learning+Enthusiast;Frontend+AI+Engineering+Intern;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hi, I'm <span style="color:#8B5CF6;">Nimra Shehzadi</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
+  Welcome to My GitHub Universe
 </h1>
 
+<h2 align="center">
+  <b>Nimra Shehzadi</b>
+</h2>
+
 <h3 align="center">
-💻 Full Stack Developer • 🤖 AI Engineer • 🧠 Machine Learning Enthusiast
+💻 Full Stack Developer • 🤖 AI Engineer • 🚀 AI & Machine Learning Developer
 </h3>
 
 <p align="center">
-Building intelligent web experiences with clean code, modern design, and AI-powered solutions.
+Building intelligent web applications and AI-powered solutions with modern technologies, clean architecture, and exceptional user experiences.
 </p>
 
 
