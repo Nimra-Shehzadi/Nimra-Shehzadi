@@ -182,9 +182,7 @@ Made with ❤️ by **Nimra Shehzadi**
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nimra-shehzadi)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimra-shehzadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
